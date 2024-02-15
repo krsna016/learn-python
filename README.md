@@ -13,7 +13,7 @@ Python is a versatile and powerful programming language that is widely used in v
 
 ## Getting Started
 
-To get started with learning Python using this repository, follow these steps:
+Run this into your command prompt / Terminal to clone the repository:
 
 ```bash
 git clone https://github.com/your-username/learn-python.git
