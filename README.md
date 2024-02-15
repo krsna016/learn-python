@@ -1,5 +1,8 @@
 # Learn Python
 
+![Alt text](https://www.python.org/static/img/python-logo@2x.png)
+
+
 Welcome to the "Learn Python" repository! This repository is designed to help you learn Python programming through examples and hands-on exercises. Whether you're a beginner or looking to enhance your Python skills, you'll find valuable resources here to guide you on your Python learning journey.
 
 ## Table of Contents
