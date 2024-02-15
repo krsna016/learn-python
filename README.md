@@ -16,5 +16,4 @@ Python is a versatile and powerful programming language that is widely used in v
 Run this into your command prompt / Terminal to clone the repository:
 
 ```bash
-git clone https://github.com/your-username/learn-python.git
-cd learn-python
+git clone https://github.com/krsna016/learn-python.git
